@@ -1,11 +1,1 @@
-# Project Name: Smart Canteen Ordering System 
-Problem: Students waste 15-20 minutes standing in line at the university canteen during lunch 
-break. 
-Solution: A web-based application allowing students to pre-order food and pay online. They 
-receive a notification when the food is ready for pickup. 
-Target Audience: University students and Canteen staff. 
-Tech Stack: 
-• Frontend: ReactJS 
-• Backend: Java Spring Boot 
-• Database: MySQL 
-• Tools: GitHub, Trello.
+# A simple web application that helps remote teams stay productive while supporting emotional health. Users can create/track tasks, set deadlines with reminders, submit work for review/feedback, and do quick daily mood check-ins. The system shows anonymous team mood trends on a dashboard to help leaders notice issues early.
